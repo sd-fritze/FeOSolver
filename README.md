@@ -4,16 +4,13 @@ FeOSolver
 Introduction
 ------------
 
-FeOS is a free, open-source sudoku solver for the Nintendo DS.
+FeOSolver is a free, open-source sudoku solver for the Nintendo DS.
 
 Build prerequisites
 -------------------
 
 You need the following in order to build FeOS:
 
-- devkitARM r34 or higher
-- libnds 1.5.2 or higher
-- libfat 1.0.10 or higher
 - The current FeOS SDK
 
 Before building, you must set the `FEOSSDK` environment variable to point to the `/sdk` directory (if on Windows, you **must** use Unix-style paths, like `/c/Users/.../gitrepos/FeOS/sdk`).
